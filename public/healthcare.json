@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Doctor Care",
+        "description": "A doctor may visit a patient at home to diagnose and treat the illness(es). He or she may also periodically review the home health care needs.",
+        "img": "https://image.freepik.com/free-vector/physician-visit-cartoon-composition_1284-25919.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Nursing Care",
+        "description": "The most common form of home health care is some type of nursing care depending on the person's needs. In consultation with the doctor, a registered nurse will set up a plan of care. Nursing care may include wound dressing, ostomy care, intravenous therapy, administering medication, monitoring the general health of the patient, pain control, and other health support.",
+        "img": "https://image.freepik.com/free-vector/medical-doctor-clinic-giving-senior-man-injection-coronavirus-vaccine-immunity-health-vaccination-concept-hospital-covid-vaccine-shot-patient_90220-258.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Transportation",
+        "description": "There are companies that provide transportation to patients who require transportation to and from a medical facility for treatment or physical exams.",
+        "img": "https://image.freepik.com/free-vector/ambulance-flat-design_23-2147945997.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pharmaceutical Service",
+        "description": "Medicine and medical equipment can be delivered at home. If the patient needs it, training can be provided on how to take medicines or use of the equipment, including intravenous therapy.",
+        "img": "https://image.freepik.com/free-vector/pharmacy-medical-shop-concept_74855-7815.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Imaging",
+        "description": "Certain laboratory tests, such as blood and urine tests, can be performed in the comfort of the patient's home. In addition, portable X-ray machines allow lab technicians to perform this service at home.",
+        "img": "https://image.freepik.com/free-vector/isometric-medical-diagnostic-equipment-set-3d-illustration-computer-tomography-ct_33099-163.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Care from home Health Aides",
+        "description": "Home health aides can help the patient with his or her basic personal needs such as getting out of bed, walking, bathing, and dressing. Some aides have received specialized training to assist with more specialized care under the supervision of a nurse.",
+        "img": "https://image.freepik.com/free-vector/isometric-family-doctor-composition-with-indoor-scenery-home-bedroom-with-medical-specialist-medicine-box-illustration_1284-61126.jpg"
+    }
+]
