@@ -1,6 +1,6 @@
 # Dhanmondi Diagonstic and Consultation Center
 
-This project was bootstrapped with [Shaery's Music Studio](https://elated-curran-267f7d.netlify.app/service).
+This project was bootstrapped with [Dhanmondi Diagonstic and Consultation Center](https://elated-curran-267f7d.netlify.app/service).
 
 This project's objective:
 1. Can know about this diagonstic center
