@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Dhanmondi Diagonstic and Consultation Center
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Shaery's Music Studio](https://elated-curran-267f7d.netlify.app/service).
+
+This project's objective:
+1. Can know about this diagonstic center
+2. Can know about the goal of this diagonstic center
+3. Can know about the objective of this diagonstic center
+4. Can know about it's services
+5. Can know about the doctors
+
+
+
 
 ## Available Scripts
 

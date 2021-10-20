@@ -1,7 +1,16 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './Service.css';
 
 const Service = () => {
+
+    const [Data, setData] = React.useState([]);
+    useEffect(() => {
+        fetch('./healthcare.json')
+            .then(res => res.json())
+            .then(data => { setData(data); console.log(Data); })
+    }, [])
+
+
     return (
         <div>
             <img src="https://image.freepik.com/free-vector/physician-visit-cartoon-composition_1284-25919.jpg" alt="Doctor_Care" />
